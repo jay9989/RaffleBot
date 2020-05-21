@@ -1,1 +1,1 @@
-worker: python RaffleBot.py
+worker: python RefferalMod.py
